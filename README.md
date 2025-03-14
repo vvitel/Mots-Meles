@@ -4,7 +4,7 @@ Ce repository contient des scripts Python pour résoudre les grilles de mots mê
 Particulièrement celles du Ouest-France (https://jeux.ouest-france.fr/mots-meles/)
 
 Afin de vous aider à résoudre votre grille, enregistrez là sous le nom "image.png".
-Important, cropper uniquement la grille en suivant les contours de celle-ci
+Croppez uniquement la grille en suivant les contours de celle-ci
 
 Puis lancez dans un terminal la commande: python .\main.py --lire_grille --mot "DIFFERENCE"
 
